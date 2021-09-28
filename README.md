@@ -14,13 +14,13 @@ Method Type: **POST**
 
 Path: localhost:8080/vote/create
 
-![image-20210927000812823](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000812823.png)
+<img src="https://user-images.githubusercontent.com/13127145/135104372-d0a1a08f-6bab-47bf-9f89-40f4d336c320.png"/>
 
-![image-20210927000858252](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000858252.png)
+<img src="https://user-images.githubusercontent.com/13127145/135104772-a473ad28-ae15-4b17-a291-2e0c4b563d9f.png"/>
 
-![image-20210927000909731](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000909731.png)
+<img src="https://user-images.githubusercontent.com/13127145/135105092-ba023570-dae8-4cca-8b09-affcc759c451.png"/>
 
-![image-20210927000921232](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000921232.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105196-022ccef9-c6b8-4367-96b1-22c6a70737e7.png"/>
 
 예시
 
@@ -61,11 +61,11 @@ Path: localhost:8080/vote/query/{userId}/{voteId}
 - userId: 조회하는 사용자의 ID
 - voteId: 조회하려는 투표 ID
 
-![image-20210927000828845](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000828845.png)
+<img src="https://user-images.githubusercontent.com/13127145/135104372-d0a1a08f-6bab-47bf-9f89-40f4d336c320.png"/>
 
-![image-20210927001006823](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927001006823.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105415-1b1cc9c2-1b65-47c5-9dfd-43ca0d40b60f.png"/>
 
-![image-20210927000926408](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000926408.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105196-022ccef9-c6b8-4367-96b1-22c6a70737e7.png"/>
 
 예시
 
@@ -109,11 +109,11 @@ Method Type: **GET**
 
 Path: localhost:8080/vote/query/userMake
 
-![image-20210927000836564](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000836564.png)
+<img src="https://user-images.githubusercontent.com/13127145/135104372-d0a1a08f-6bab-47bf-9f89-40f4d336c320.png"/>
 
-![image-20210927001020149](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927001020149.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105530-1a1bbe1b-2987-4694-96bb-665f50be6cc6.png"/>
 
-![image-20210927000932858](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000932858.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105196-022ccef9-c6b8-4367-96b1-22c6a70737e7.png"/>
 
 예시
 
@@ -145,13 +145,13 @@ Method Type: **PUT**
 
 Path: localhost:8080/vote/select
 
-![image-20210927000841805](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000841805.png)
+<img src="https://user-images.githubusercontent.com/13127145/135104372-d0a1a08f-6bab-47bf-9f89-40f4d336c320.png"/>
 
-![image-20210927001034957](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927001034957.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105634-acc4bc1d-4d2c-4460-8fd2-f79447ea08cd.png"/>
 
-![image-20210927001047539](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927001047539.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105718-45a7ea1b-0840-410b-850a-5cc35b09f05d.png"/>
 
-![image-20210927000936532](/Users/jongjinbyun/Library/Application Support/typora-user-images/image-20210927000936532.png)
+<img src ="https://user-images.githubusercontent.com/13127145/135105196-022ccef9-c6b8-4367-96b1-22c6a70737e7.png"/>
 
 예시
 
