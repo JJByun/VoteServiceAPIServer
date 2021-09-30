@@ -1,3 +1,7 @@
+# 투표 API
+- FrameWork : Spring Boot
+- Build: Gradle
+- API: 투표 생성, 조회, 생성 투표 조회, 투표 선택
 # 실행 방법
 
 ```bash
